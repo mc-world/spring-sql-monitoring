@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=de.mcworld.spring.sql.monitoring.autoconfigure.SqlMonitorAutoConfiguration
